@@ -1,1 +1,1 @@
-# 이 문서는 소프트웨어의 요구사항을 정리하는 문서입니다. 
+# Web site remodeling project for computer engineering department
